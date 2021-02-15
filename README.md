@@ -2,11 +2,10 @@
 
 SALUDOS...
 
-Unate a nuestra gran comunidad Informatic in Termux.
-🦂
+Unate a nuestra gran comunidad Informatic in Termux. 🦂
 
 INSTALACION:
- 
+
 apt update && apt upgrade -y
 
 pkg install python -y
@@ -27,5 +26,8 @@ python Live-Generator.py
 
 Una vez en la interfax aparece un ejemplo de ejecución bastante cencillo
 
+Canal de YouTube
 
-Scorpio28
+https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
+
+By: Scorpio28

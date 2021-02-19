@@ -1,10 +1,10 @@
-🦂Esta es una herramienta creada en python cuya función es generar lives de bins. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso
+# 🦂Esta es una herramienta creada en python cuya función es generar lives de bins. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso
 
 SALUDOS...
 
 Unate a nuestra gran comunidad Informatic in Termux. 🦂
 
-INSTALACION:
+# INSTALACION:
 
 apt update && apt upgrade -y
 
@@ -24,10 +24,15 @@ ls
 
 python Live-Generator.py
 
-Una vez en la interfax aparece un ejemplo de ejecución bastante cencillo
+# Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo
 
-Canal de YouTube
+# Canal de YouTube
 
 https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
 
-By: Scorpio28
+# By: Scorpio28
+
+
+Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
+
+# EL CONOCIMIENTO ES LIBRE.

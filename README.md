@@ -30,7 +30,6 @@ python Live-Generator.py
 
 # Informatic in Termux
 
-👇👇👇
 https://t.me/Informatic_in_Termux_1
 
 

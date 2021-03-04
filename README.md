@@ -24,13 +24,14 @@ ls
 
 python Live-Generator.py
 
-# Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo
-
-# Canal de YouTube
-
-https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
+# Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.
 
 # By: Scorpio28
+
+# Informatic in Termux
+
+👇👇👇
+https://t.me/Informatic_in_Termux_1
 
 
 Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.

@@ -38,3 +38,8 @@ https://t.me/Informatic_in_Termux_1
 __Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.__
 
 # EL CONOCIMIENTO ES LIBRE.
+
+
+__NO EXPLICO NI DOY CURSITOS DE CARDING.__
+
+__SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.__

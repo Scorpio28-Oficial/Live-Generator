@@ -10,7 +10,7 @@ from random import randint
 version = "1.0.0"
 #Mensaje
 os.system ("clear")
-print("\033[1;36m GENERADOR DE BINS")
+print("\033[1;36m Live-Generator (GENERADOR DE BINS)")
 time.sleep(1.2)
 #Informacion de ayuda
 def dexter1999():

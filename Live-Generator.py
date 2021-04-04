@@ -34,7 +34,7 @@ print("")
 print("\033[1;32m Informatic in Termux")
 print("")
 time.sleep(1.6)
-print(" https://t.me/Informatic_in_Termux_1")
+print(" https://t.me/Informatic_in_Termux")
 print("")
 time.sleep(2.2)
 

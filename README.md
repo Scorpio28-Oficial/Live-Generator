@@ -32,7 +32,7 @@ __Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.__
 
 __Informatic in Termux__
 
-https://t.me/Informatic_in_Termux_1
+https://t.me/Informatic_in_Termux
 
 
 __Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.__
@@ -42,4 +42,4 @@ __Esta información es solo con fines educativos e informativos, el mal uso es r
 
 __NO EXPLICO NI DOY CURSITOS DE CARDING.__
 
-__SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.__
+__SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.__

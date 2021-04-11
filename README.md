@@ -1,6 +1,6 @@
 # Live-Generator
 
-__Esta es una herramienta creada en python cuya función es generar lives de bins. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso__
+__Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso__
 
 __SALUDOS...__
 

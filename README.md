@@ -35,16 +35,16 @@ __Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.__
 
 #### By: Scorpio28
 
-####é Informatic in Termux
+##### Informatic in Termux
 
 https://t.me/Informatic_in_Termux
 
 
-######## Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
+###### Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
-######## EL CONOCIMIENTO ES LIBRE.
+###### EL CONOCIMIENTO ES LIBRE.
 
 
-########  NO EXPLICO NI DOY CURSITOS DE CARDING.
+######  NO EXPLICO NI DOY CURSITOS DE CARDING.
 
-####### ##SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.
+###### SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.

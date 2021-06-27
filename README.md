@@ -1,13 +1,17 @@
-# Live-Generator
+### Live-Generator
+<p align="center">
+ <img src="https://i.imgur.com/Jxaneeq.jpg" width="600px">
+</p>
 
-__Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso__
+###### Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso
 
-__SALUDOS...__
+###### SALUDOS...
 
 Unate a nuestra gran comunidad Informatic in Termux.
 
-__🦂 INSTALACION: 🦂__
+### 🦂 INSTALACION: 🦂
 
+```
 apt update && apt upgrade -y
 
 pkg install python -y
@@ -25,21 +29,22 @@ chmod 777 Live-Generator.py
 ls
 
 python Live-Generator.py
+```
 
 __Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.__
 
-# By: Scorpio28
+#### By: Scorpio28
 
-__Informatic in Termux__
+####é Informatic in Termux
 
 https://t.me/Informatic_in_Termux
 
 
-__Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.__
+######## Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
-# EL CONOCIMIENTO ES LIBRE.
+######## EL CONOCIMIENTO ES LIBRE.
 
 
-__NO EXPLICO NI DOY CURSITOS DE CARDING.__
+########  NO EXPLICO NI DOY CURSITOS DE CARDING.
 
-__SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.__
+####### ##SOY ÉTICO ESTA HERRAMIENTA  ES PARA USO EDUCATIVO UNICAMENTE EL MAL USO DE LA MISMA ES BAJO TU RESPONSABILIDAD.

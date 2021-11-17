@@ -1,7 +1,4 @@
 ### Live-Generator
-<p align="center">
- <img src="https://i.imgur.com/Jxaneeq.jpg" width="600px">
-</p>
 
 ###### Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso
 
